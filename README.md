@@ -1,4 +1,3 @@
-# Sentify
 # Java Login & Sign Up GUI
 
 ## JAVA - How To Design Login And Register Form In Java Netbeans
